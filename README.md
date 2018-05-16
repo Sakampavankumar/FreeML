@@ -31,7 +31,7 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
 
-## Machine Learning:
+## Machine Learning-
 
 ### - Videos:
   * Stanford Statistical Learning: [Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
